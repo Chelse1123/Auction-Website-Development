@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #104473,#a1633b);
+  height: 10vh;
+  font-family: sans-serif;
+  color: #fff;
+  width: 100%;
+  font-size:18px;
+  margin-top: 4%;
+}
+.lebt {
+    position: absolute;
+    left: 600px;
+    bottom: 460px;
+	text-align: center;
+
+}
+
+.personal_centre{
+	position: absolute;
+    left: 600px;
+    bottom: 550px;
+}
+.display{
+	position: absolute;
+    left: 220px;
+}
+.detail{
+	position: absolute;
+    left: 620px;
+}
+mytable{
+	text-align: center;
+	margin: auto;
+	
+}
+a:visited{
+	color:aliceblue;
+	text-decoration:underline;
+}
+a:active{color:aliceblue;
+	text-decoration:underline;
+}
+a:link{
+	color:aliceblue;
+	text-decoration:underline;
+}

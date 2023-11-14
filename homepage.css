@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  background-image: url(./bg2.jpeg);
+  background-size: cover;
+  background-position-y:1% ;
+  font-family: sans-serif;
+  color: #fff;
+  text-decoration-color: aliceblue;
+  width: 100%;
+  text-align: center;
+  font-size:23px;
+}
+a:visited{
+	color:aliceblue;
+	text-decoration:underline;
+}
+a:active{color:aliceblue;
+	text-decoration:underline;
+}
+a:link{
+	color:aliceblue;
+	text-decoration:underline;
+}
+.lebt {
+    position: absolute;
+    left: 600px;
+    bottom: 380px;
+	text-align: center;
+}
+
+	
+	
+
+
